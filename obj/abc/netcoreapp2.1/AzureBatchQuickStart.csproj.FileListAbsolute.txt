@@ -1,9 +1,0 @@
-C:\Users\srkothal\source\repos\AzureBatchQuickstart\bin\abc\netcoreapp2.1\AzureBatchQuickStart.deps.json
-C:\Users\srkothal\source\repos\AzureBatchQuickstart\bin\abc\netcoreapp2.1\AzureBatchQuickStart.runtimeconfig.json
-C:\Users\srkothal\source\repos\AzureBatchQuickstart\bin\abc\netcoreapp2.1\AzureBatchQuickStart.runtimeconfig.dev.json
-C:\Users\srkothal\source\repos\AzureBatchQuickstart\bin\abc\netcoreapp2.1\AzureBatchQuickStart.dll
-C:\Users\srkothal\source\repos\AzureBatchQuickstart\bin\abc\netcoreapp2.1\AzureBatchQuickStart.pdb
-C:\Users\srkothal\source\repos\AzureBatchQuickstart\obj\abc\netcoreapp2.1\AzureBatchQuickStart.AssemblyInfoInputs.cache
-C:\Users\srkothal\source\repos\AzureBatchQuickstart\obj\abc\netcoreapp2.1\AzureBatchQuickStart.AssemblyInfo.cs
-C:\Users\srkothal\source\repos\AzureBatchQuickstart\obj\abc\netcoreapp2.1\AzureBatchQuickStart.dll
-C:\Users\srkothal\source\repos\AzureBatchQuickstart\obj\abc\netcoreapp2.1\AzureBatchQuickStart.pdb
